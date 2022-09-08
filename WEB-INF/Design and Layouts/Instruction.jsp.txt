@@ -1,0 +1,20 @@
+Instruction-PLEASE READ THIS CAREFULLY BEFORE ATTEMPTING THE MOCK TEST
+-                
+                  Hey! Nilay. 
+                  PLEASE READ THIS CAREFULLY BEFORE ATTEMPTING THE  JAVA MOCK TEST.
+ 
+4.	On the Upper left-hand side you will see your name and subject name. 
+                 On Upper right-hand side you will see the count-down timer and a 'End Exam' Button.
+5.	The Question Paper consists of 30 objective type questions. 
+6.	Only one Question will be displayed on the computer screen at a time. To move to the next, click on "Next" button. 
+7.	In order to answer a question, you have to 'mouse click' the option you think is appropriate/ correct.
+8.	In case you do not know the answer of the question, you can skip the question by clicking on 'Skip' Button.
+9.	There is no option of reattempting the previous question. Either you have to attempt all questions or you can end exam by clicking on 'End Exam' Button.
+11.            Each question carries 3 mark. 
+                 Each question need to be submitted in 3 minutes time duration.
+12.	Each question will have 4 alternatives, out of which only one will be the correct answer. 
+13.	There is no negative marking. 
+14.	Once you have answered all the questions please click on the 'Submit' button.
+                After completion, you can get the summary of your mock test.
+                An analysis report will be sent to your mail.
+

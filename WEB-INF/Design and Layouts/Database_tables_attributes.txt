@@ -1,0 +1,33 @@
+oaa_info
+-username
+-name
+-email-id
+-phone no
+-password
+-user_id
+
+
+oaa_aptitude_easy,medium,hard (total=12)
+-sno
+-sid(subject id)=101
+-question
+-answer
+-a
+-b
+-c
+-d
+
+oaa_statistic
+-userid
+-accuracy level_aptitude 
+-accuracy level_technical
+-accuracy level_reasoning
+-accuracy level_programming
+-difficulty level_aptitude (default==easy)
+-difficulty level_technical 
+-difficulty level_reasoning
+-difficulty level_programming
+
+total=15 tables;
+
+
