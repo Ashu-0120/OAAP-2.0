@@ -1,0 +1,101 @@
+
+#modules_body{
+margin-top:15.875vw;
+height:450vw;
+}
+
+#card-mock-img
+	width:74vw;/*298*/
+	height:20vw;/*140*/
+	margin-top: /*10*/
+	    
+}
+a:hover{
+ color:green;
+
+}
+#card_block{
+margin-top: 4vw;
+}
+#card_title{
+text-align:center;
+
+font-size:7vw;
+font-family:Dosis;
+}
+.card-text{
+	color:black;
+	font-size:1.1625vw; /*15*/
+	font-family: Dosis;
+}
+#card_footer{
+	border-top:0.0775vw solid #F60100 ;
+}
+
+#card_footer{
+margin-top:1vw;
+margin-left:11vw;
+}
+#card_catg{
+font-size:5vw;
+text-align:center;
+}
+#card_mock_module1{
+	width:78.75vw;/*300*/
+	height: 130vw;/*450*/
+	border: 0.4vw solid #65A5AD;/*1*/
+	margin-top:5vw;
+	margin-left: 8vw;
+    
+	}
+
+#card_mock_module2{
+	width:78.75vw;/*300*/
+	height: 130vw;/*450*/
+	border: 0.4vw solid #65A5AD;/*1*/
+      margin-top:5vw;
+	  margin-left:8vw;
+	  
+}
+
+#card_mock_module3{
+	width:78.75vw;/*300*/
+	height: 130vw;/*450*/
+	border: 0.4vw solid #65A5AD;/*1*/
+   margin-top:5vw;
+   margin-left:8vw
+   }
+#proj_desc_col{
+background-color:#e3edf4;height:50vw;text-align:center;color: white;
+}
+
+#proj_desc_title{
+padding-top:4vw;font-size: 2em;
+}
+
+#project_desc{
+	color:black;
+	font-size:5.425vw;/*70*/
+	font-family: Dosis;
+}
+
+
+#contact-us_col{
+font-size:2em
+}
+#contact-us_title{
+font-size: 3.1vw;
+}
+#contact-us_name{
+font-size: 3.1vw;
+}
+#contact-us_name_input{
+border-radius:0.48vw;font-family:Dosis;font-size:3vw;width: 31vw;height: 3.875vw;
+}
+#contact-us_email{
+font-size: 3.1vw;
+}
+#contact-us_email_input{
+border-radius:0.48vw;font-family:Dosis;font-size:3vw;width: 31vw;height: 3.875vw;
+
+}

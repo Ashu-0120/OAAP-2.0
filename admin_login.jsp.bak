@@ -1,0 +1,45 @@
+<%@page  import="java.sql.*" %>
+<%@page import ="javax.servlet.*" %>
+
+<html>
+ <body>
+ <%
+
+
+ String admin_id=request.getParameter("admin_id");
+String admin_password=request.getParameter("admin_password");
+
+
+Class.forName("oracle.jdbc.OracleDriver");
+Connection con=DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe","AshiTiwari","2001");
+PreparedStatement ps=con.prepareStatement("select * from oaa_admin where admin_id=? and password=?");
+ps.setString(1,admin_id);
+ps.setString(2,admin_password);
+ResultSet rs=ps.executeQuery();
+
+ if (rs.next())
+		   {
+			    out.print("<h1 align=center>Welcome</h1>");
+               out.flush();
+              RequestDispatcher rd1=request.getRequestDispatcher("admin_panel.jsp");
+			  rd1.include(request,response);
+
+		   }
+
+
+else
+{
+		out.print("<h1 align=center>Invalid Id or Password</h1>");
+		out.flush();
+      RequestDispatcher  rd1=request.getRequestDispatcher("adminlogin");
+			  rd1.include(request,response);
+
+}
+
+
+
+
+%>
+  
+ </body>
+</html>
